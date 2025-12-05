@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ATIVIDADE_EAD__04_12_
+namespace _EAD__04_12_
 {
     public class Produto
     {
